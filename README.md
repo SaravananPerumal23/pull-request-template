@@ -8,6 +8,9 @@ Check out the [Pull-Request-Template Lunch and Learn](https://www.youtube.com/wa
 ## Purpose
 _Describe the `Purpose` of the pull request. Include background information if necessary_
 
+
+TEST Comments
+
 A PULL_REQUEST_TEMPLATE helps to standardize the important information in a Pull Request. Software is hard and appications are large, so no matter how self-documenting the code is today, we need to provide a healthy environment for discussion tomorrow. 
 
 Writing a Pull Request can feel like a hurdle that stands between the developer and shipping code. This leads to some common issues with Pull Requests:
